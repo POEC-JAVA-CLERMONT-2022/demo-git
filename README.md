@@ -2,4 +2,4 @@
 
 ## Qui contacter ?
 
-# Garand Léo / leo.garand@outlook.fr / git add README.txt -> git commit -m "Modification readme partiel leo" -> git push
+# Garand Léo / leo.garand@outlook.fr / git add README.txt -> git commit -m "Modification readme partiel leo" -> git push --set-upstream origin GarandLeoPartiel
