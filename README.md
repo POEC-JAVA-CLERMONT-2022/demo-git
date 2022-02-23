@@ -2,4 +2,8 @@
 
 ## Qui contacter ?
 
-* lucas
+Florian Boin (franckyvincent@lerestaurant.fr)
+lucas
+Manu
+Mao
+Wendy
