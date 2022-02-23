@@ -2,6 +2,7 @@
 
 ## Qui contacter ?
 
+Florian Boin (franckyvincent@lerestaurant.fr)
 Manu
 Mao
 Wendy
