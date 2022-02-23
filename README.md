@@ -8,5 +8,5 @@ git branch DaudetFabienPartiel
 git checkout -B DaudetFabienPartiel
 
 git add README.md
-commit -m "DaudetFabienPartiel"
-git push
+git commit -m "DaudetFabienPartiel"
+git push --set-upstream origin DaudetFabienPartiel
