@@ -8,4 +8,4 @@ gabenewell@valvesoftware.com
 * git checkout -B SevauxLeeroyPartiel
 * git add .
 * git commit -m "(commentaire)"
-* git push --set-upstream origin SevauxLeeroyPartiel
+* git push --set-upstream origin developp
