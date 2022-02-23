@@ -2,5 +2,6 @@
 
 ## Qui contacter ?
 
+Manu
 Mao
 Wendy
