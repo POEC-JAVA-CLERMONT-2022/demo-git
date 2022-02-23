@@ -2,8 +2,4 @@
 
 ## Qui contacter ?
 
-Florian Boin (franckyvincent@lerestaurant.fr)
-lucas
-Manu
-Mao
-Wendy
+GYORI Charles (charles.gyori@gmail.com)
