@@ -2,8 +2,10 @@
 
 ## Qui contacter ?
 
-Florian Boin (franckyvincent@lerestaurant.fr)
-lucas
-Manu
-Mao
-Wendy
+Pariente Wendy wendy.gianina@gmail.com
+
+branch ParienteWendyPartiel
+switch ParienteWendyPartiel
+add .
+commit -m "Partiel Wendy"
+push
