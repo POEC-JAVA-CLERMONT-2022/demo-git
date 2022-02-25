@@ -1,9 +1,6 @@
+OliviaPartiel2
+texte
 # demo-git
 
-## Qui contacter ?
+Laconte Olivia laconte.olivia@sfr.fr : process d'archivage
 
-####mater mao, maoherve8@gmail.com 
-#### git pull
-####git add . 
-#### git commit -m "message"
-#### git push origin branch
